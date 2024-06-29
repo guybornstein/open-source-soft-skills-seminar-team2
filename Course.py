@@ -8,6 +8,9 @@ class Course:
     def addStudent(self, student, grade):
         pass
 
+    def getStudentGrade(self, student):
+        pass
+        
     #returns the average of the course
     def getAverage(self):
         pass
